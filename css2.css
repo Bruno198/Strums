@@ -16,3 +16,8 @@ article{
     background-color: white;
     text-align: center;
 }
+article{
+    display: inline-flex;
+    color: white;
+    text-align: center;
+}
