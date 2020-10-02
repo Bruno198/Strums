@@ -8,6 +8,11 @@ h1,h2,h5{
     color: orange;
     text-align: center;
 }
+
+h3
+{
+    color: orange;
+}
 article{
     text-align: center;
 }
