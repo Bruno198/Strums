@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+a{
+    color: orange;
+}
+h1,h2,h5{
+    color: orange;
+    text-align: center;
+}
+h3
+{
+    color: green; 
+
+}
+hr
+{
+    color: white;
+}
+.junbotrom
+{
+    padding: 1px;
+    
+}
+article,ul{
+    display: inline-flex;
+}
+li{
+    color: blue;
+}
+img
+{
+    text-align: center;
+}
+nav{
+    display: inline-flex;
+}
+p
+{
+    color: green;
+}
+.nav,h3
+{
+color:black;
+}
+article{
+    text-align: center;
+}
